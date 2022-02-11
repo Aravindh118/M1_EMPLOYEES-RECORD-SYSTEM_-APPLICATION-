@@ -1,4 +1,7 @@
 # M1_EMPLOYEES-RECORD-SYSTEM_-APPLICATION-
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1e3415360fe847ac9e60bf818a117f43)](https://app.codacy.com/gh/Aravindh118/M1_EMPLOYEES-RECORD-SYSTEM_-APPLICATION-?utm_source=github.com&utm_medium=referral&utm_content=Aravindh118/M1_EMPLOYEES-RECORD-SYSTEM_-APPLICATION-&utm_campaign=Badge_Grade_Settings)
+
 Title : Employee Record System
 
 The mini-project “Employee Record System Project in C” is a console application using the C programming language. This project compiled in Code Blocks with the GCC compiler. In this console application, you can do basic Employee Record tasks like adding the employee info, view the added employee, search the employees. This application based on file handling in C, where I have used a file-related function like fopen, fread, fwrite, ..etc. Good thing is that “Employee Record System Project” is password-protected, so only authorized persons able to login to this application. Also to increase the readability, I have broken the application in different functions. Each function of the project extensively use in the file handing function, so it is also a great project to understand file handling in C.
