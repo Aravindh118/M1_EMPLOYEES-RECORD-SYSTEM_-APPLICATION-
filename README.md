@@ -1,3 +1,6 @@
+https://api.codiga.io/project/31452/score/svg
+
+
 # M1_EMPLOYEES-RECORD-SYSTEM_-APPLICATION-
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/317d38e2946a46c8ae185f7a6ca625ad)](https://www.codacy.com/gh/Aravindh118/M1_EMPLOYEES-RECORD-SYSTEM_-APPLICATION-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Aravindh118/M1_EMPLOYEES-RECORD-SYSTEM_-APPLICATION-&amp;utm_campaign=Badge_Grade)
 
