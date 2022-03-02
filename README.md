@@ -1,6 +1,7 @@
 # M1_EMPLOYEES-RECORD-SYSTEM_-APPLICATION-
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/317d38e2946a46c8ae185f7a6ca625ad)](https://www.codacy.com/gh/Aravindh118/M1_EMPLOYEES-RECORD-SYSTEM_-APPLICATION-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Aravindh118/M1_EMPLOYEES-RECORD-SYSTEM_-APPLICATION-&amp;utm_campaign=Badge_Grade)
 ![svg](https://user-images.githubusercontent.com/98834359/156333223-01cbdbd0-80ba-4872-9c1e-bb055d445ade.svg)
+![svg](https://user-images.githubusercontent.com/98834359/156333564-91a43b82-845a-4b4e-a3a7-9b44f49bf437.svg)
 
 Title : Employee Record System
 
