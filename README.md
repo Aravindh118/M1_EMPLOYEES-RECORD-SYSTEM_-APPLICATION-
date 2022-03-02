@@ -1,4 +1,4 @@
-code quality score https://api.codiga.io/project/31452/score/svg
+![code quality score] (https://api.codiga.io/project/31452/score/svg)
 
 
 
