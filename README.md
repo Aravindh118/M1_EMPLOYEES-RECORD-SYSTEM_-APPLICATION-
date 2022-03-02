@@ -1,4 +1,5 @@
-![code quality score] (https://api.codiga.io/project/31452/score/svg)
+
+![svg](https://user-images.githubusercontent.com/98834359/156333223-01cbdbd0-80ba-4872-9c1e-bb055d445ade.svg)
 
 
 
