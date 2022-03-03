@@ -43,15 +43,18 @@ FOLDER STRUCTURE
 
 FOLDER	DESCRPTION
 
-1_Requirements	Documents detailing requirements
-2_Architecture	Structural and Behavioural UML
-3_Implementation	All the code is written here
-4_TestPlanAndOutput	Documents with test plans and outputs
-5_Report	Generated Report
+1_Requirements	- Documents detailing requirements
 
 
-Challenges Faced and How Was It Overcome
+2_Architecture	- Structural and Behavioural UML
 
-1.I have faced issues in file handling. so, I used strings.
 
-2.Updating and Deleting a file was overcame by using a temporary file to store data for some time.
+3_Implementation	- All the code is written here
+
+
+4_TestPlanAndOutput	- Documents with test plans and outputs
+
+5_Report	- Generated Report
+
+
+
